@@ -2,4 +2,4 @@
 weather_key = "YOUR KEY HERE"
 
 # Google API Key
-gkey = "KEY"
+gkey = "K"
