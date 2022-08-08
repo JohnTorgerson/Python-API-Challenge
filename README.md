@@ -14,11 +14,11 @@ With the remaining coordinates generate a list of nearest hotels using another A
 * `city_data.csv` : the original cleaned dataset generated from randomly pulling from openweather, saved as a csv
 * `WeatherPY.ipynb` : Jupyter notebook used to randomly gather and clean climate data for world cities
 * `VacationPY.ipynb` : Jupyter notebook used to narrow the data to ideal conditions and generate hotels
-* 'x.png' : ANY png files are maps or plot graphs related to the results of this data 
+* 'x.png' : ANY png files are either maps or plot graphs related to the results of this data 
  
 Authors:
 * John Torgerson (JohnTorgerson) 
 
 #### Team Members:
-* Dominic LaBella - helped clear up an environment and Kernel issue
+* Dominic LaBella - helped clear up an environment and Kernel issue as well as advised on a fstring in a forloop while working on an api/url request
 
